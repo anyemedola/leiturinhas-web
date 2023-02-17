@@ -60,27 +60,44 @@
 								<header>
 									<h2>My library!</h2>
 								</header>
-								<form action="#" method="post">
-									<div>
-										<div class="row">
-											<div class="col-6 col-12-medium">
-												<input type="text" name="name" placeholder="Name" />
-											</div>
-											<div class="col-6 col-12-medium">
-												<input type="text" name="email" placeholder="Email" />
-											</div>
-											<div class="col-12">
-												<input type="text" name="subject" placeholder="Subject" />
-											</div>
-											<div class="col-12">
-												<textarea name="message" placeholder="Message" rows="6"></textarea>
-											</div>
-											<div class="col-12">
-												<input type="submit" value="Send Message" />
-											</div>
+								<div class="row">
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic01.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic03.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic04.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic05.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic06.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic07.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic08.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic09.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic10.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic11.jpg" alt=""></a>
+										</div>
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="#" class="image fit"><img src="images/pic12.jpg" alt=""></a>
 										</div>
 									</div>
-								</form>
 							</article>
 
 					</div>
